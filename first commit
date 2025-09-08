@@ -1,0 +1,4 @@
+git add main.py
+git add GAN_core.py
+git add dino_ds_api.py
+git commit -m “первый коммит”
